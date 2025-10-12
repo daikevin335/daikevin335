@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Kevin Dai 
 
-<!--
-**daikevin335/daikevin335** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a first-year Mathematics student at the Unviversity of Waterloo
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on:
+- **[Stock Tracker](https://github.com/daikevin335/stock-tracker)** — Real-time stock dashboard teacker
+
+
+📫 **Connect:**  
+- Email: daikevin335@gmail.com 
+- LinkedIn: https://www.linkedin.com/in/kevin-dai-279024267/
+- GitHub: [@daikevin335](https://github.com/daikevin335)
