@@ -1,6 +1,6 @@
 ## Hi, I'm Kevin Dai 
 
-I'm a first-year Mathematics student at the Unviversity of Waterloo
+I'm a Mathematics student at the Unviversity of Waterloo
 
 📫 **Connect:**  
 - Email: daikevin335@gmail.com 
